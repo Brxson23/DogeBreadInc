@@ -1,3 +1,3 @@
 # wavesite
  
-Site with waves
+Site with waves and other stuff you might know
